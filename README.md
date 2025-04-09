@@ -76,10 +76,5 @@ E veja o resumo gerado automaticamente!
 
 ---
 
-## 💡 Melhorias Futuras
-
-- Suporte a vídeos longos com divisão automática
-- Download da transcrição e resumo
-- Escolha de modelos personalizados
-- Histórico de análises
+![image](https://github.com/user-attachments/assets/d81f8879-7f30-492f-81e9-a963fc4f0ec0)
 
