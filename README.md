@@ -20,7 +20,7 @@ Hugging Face — tudo isso com uma interface web usando **Streamlit**. 🚀
 ## ⚙️ Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/video-analyzer-app.git
+git clone 'https://github.com/goesq/VideoAnalysisApp/'
 cd video-analyzer-app
 python -m venv venv
 venv\Scripts\activate   # no Windows
